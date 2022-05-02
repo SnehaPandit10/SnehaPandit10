@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SnehaPandit10
-- 👀 I’m interested in Web Develpment
-- 🌱 I’m currently learning Back-end
+- 👋 Hi, I’m @SnehaPandit
+- 👀 I’m interested in Web Develpment and competitive coding
+- 🌱 I’m am a Front-end Web Developer 
 - 💞️ I’m looking to collaborate on Projects related to it
 - 📫 How to reach me ...
 
