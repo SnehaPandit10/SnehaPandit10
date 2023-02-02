@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SnehaPandit
-- 👀 I’m interested in Web Develpment and competitive coding
-- 🌱 I’m am a Front-end Web Developer 
-- 💞️ I’m looking to collaborate on Projects related to it
+- 👀 I’m interested Development
+- 🌱 I’m am a professional dancer
+- 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me ...
 
 <!---
